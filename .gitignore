@@ -1,0 +1,9 @@
+.DS_Store
+.idea
+results
+!*/results/README.MD
+lib/__pycache__
+.tags*
+pabot_results
+debug.log
+
