@@ -30,10 +30,10 @@ there are a few steps:
   ````
   **NOTE**
 
-  I know: a virtual env should be better.... if you like you can do it or open a pull request to add it to this repo ;-) 
+  I know: a virtual env should be better.... if you like you can do it or open a pull request to add it to this repo ;-)
 1. Run Your first test
   ```` BASH
-  robot -d ./results ./case
+  robot -d ./results ./cases
   ````
 **NOTE**
 
