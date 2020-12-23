@@ -3,7 +3,7 @@
 This is a simple Project to illustrate how to use RobotFramework
 
 ## Before you start
-In this Project every "Stage x" commit correspond to a different level of abstraction of the testing suite.
+In this Project every "Stage x" commit corresponds to a different level of abstraction of the testing suite.
 
 #### Stage 1
 _Quick & dirty_:
